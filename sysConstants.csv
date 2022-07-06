@@ -1,0 +1,41 @@
+VehicleWeight (Pounds),451.948
+Hill Climb Angle,30
+Tire Radius (in),5.61024
+Gear Box Reduction Ratio,8.1
+Belt CtoC (in),8.5
+Coefficient of friction belt,0.13
+Mass Belt (kg),0.2725
+Belt length (inch),35.039
+belt groove angle ,24
+,
+Theta (Groove angle primary ),22.8
+Total sheave displacement (in),0.8
+Minimum pitch radius (in),1.1415
+maximum pitch radius (in),2.98
+Pressure spring linear constant (pound force per inches),72.461
+Pressure spring installed pretention,0.118
+CoF Btw FW ramp and FW roller,0.002
+Delta ( ramp angle start),11
+Delta ( ramp angle end),14
+Flat angle,11
+,
+Mass of FW (g) (for 1 arm),155
+FW initial Radius (in),1.955
+FW Max Radius (in),3.2
+Mass of 1 link (kg),0.01827
+,
+,
+Phi (Belt grove angle seconadary),28.6
+Total sheave displacement (in.),0.8228
+Min Pitch radius (inch),2.559
+Max pitch radius (inch),3.835
+,
+Torsional Installed linear length (in),1.9685
+Linear Spring Rate ( pound force per inch),17.13
+Installed Twist,60
+Total Secondary Twist (Degrees),185
+Lambda (torsional spring Rate) (Nm/deg),3.996
+,
+Helix Start angle (deg),38
+Helix End angle,32
+Helix Ramp radius (in.),3.5
